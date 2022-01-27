@@ -1,1 +1,1 @@
-# spring-microservices
+# FE for eStockMarket rest endpoints
